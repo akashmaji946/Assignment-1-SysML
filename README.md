@@ -15,6 +15,7 @@ sudo sysctl -p
 
 - `part01.cpp`: Contains the implementation of the naive convolution method using a 7-layer loop.
 - `part02.cpp`: Contains the implementation of the toeplitz convolution method using a 4-layer loop.
+- `checker.cpp`: Contains the logic to compare the two outputs from part01 and part02.
 - `Makefile`: Used to compile the source files and generate the executables.
 
 ## Compilation
